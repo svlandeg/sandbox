@@ -1,6 +1,9 @@
 [project]
 name = "dummy-sandbox"
 version = "0.0.1"
+authors = [
+    {name = "svlandeg"},
+]
 description = "Dummy Python package for sandbox experiments."
 readme = "README.md"
 requires-python = ">=3.11"
