@@ -1,2 +1,2 @@
 # sandbox
-Public sandbox repo to test out stufff. 
+Public sandbox repo to test out stuff. 
